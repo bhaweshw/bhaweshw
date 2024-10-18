@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bhaweshw
 - 👀 I’m interested in game devlopment
-- 🌱 I’m currently learning C++
+- 🌱 I’m currently learning C++,react.js
 - 💞️ I’m looking to collaborate on indie game devlopment
 - 📫 How to reach me bhaweshwasnik4@gmail.com
 - 😄 Pronouns: he/him

@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bhaweshw&label=Profile%20views&color=0e75b6&style=flat" alt="bhaweshw" /> </p>
 
-- 🔭 I’m currently working on **Talent_Bridge**
+- 🔭 I’m currently working on **React_projects**
 
 - 🌱 I’m currently learning **C++, React.js, Node.js, PostgreSQL, Restful API**
 

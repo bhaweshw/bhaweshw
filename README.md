@@ -17,9 +17,6 @@
 
 <h3 align="left">GitHub Stats:</h3>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=bhaweshw&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-</p>
 
 
 <p align="center">
